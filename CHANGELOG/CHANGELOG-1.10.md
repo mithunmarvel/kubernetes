@@ -474,6 +474,7 @@ filename | sha512 hash
 [kubernetes-client-windows-386.tar.gz](https://dl.k8s.io/v1.10.9/kubernetes-client-windows-386.tar.gz) | `dfad6079e52d7d5c4ef24b8ac09a6f31e060bc3c7945ebf1ed97d72cb218dacf97528404b5000f45e5cecd133a18ef8ef210920140cf4c70f0f846d5cee10411`
 [kubernetes-client-windows-amd64.tar.gz](https://dl.k8s.io/v1.10.9/kubernetes-client-windows-amd64.tar.gz) | `1133465d9f161a42dc603b03ce2654be5c27698f8fec0bec9039ac8494c45bbb0770b198b6e15f4ffacb719078fe25cf9ca294f923191ba35a909e657b7399be`
 
+
 ### Server Binaries
 
 filename | sha512 hash
